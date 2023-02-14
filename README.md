@@ -9,9 +9,8 @@ VHC is a website for Health Care Uses where Visitor can contact any health care 
 
 ## Technologies Used
 
-- Laravel - Php Framework &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
-- SCSS
-- JavaScript
-- MySQL
--
+- :zap: Laravel - Php Framework &nbsp; <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+- :zap: SCSS
+- :zap: JavaScript
+- :zap: MySQL
 
